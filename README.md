@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @percjsn
-- 👀 I’m interested in HTML, CSS, JavaScript, React.js, C#, Unity, Python
-- 🌱 I’m currently working thorugh TOP, CS50 and FCC
+- 👀 I’m interested in HTML, CSS, JavaScript, React.js, Python, C#, Unity,
+- 🌱 I’m currently working through TOP, CS50 and FCC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
