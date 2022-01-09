@@ -3,6 +3,7 @@
 - 🌱 I’m currently working through TOP, CS50 and FCC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- #100devs
 
 <!---
 percjsn/percjsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
